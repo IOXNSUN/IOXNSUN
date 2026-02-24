@@ -32,18 +32,6 @@
 </a>
 </td>
 <td align="center">
-<a href="https://github.com/IOXNSUN/Postman-collection">
-<img src="https://raw.githubusercontent.com/IOXNSUN/Postman-collection/main/screenshots/main.png" width="150px" /><br>Postman-collection
-</a>
-</td>
-</tr>
-<tr>
-<td align="center">
-<a href="https://github.com/IOXNSUN/macros-for-excel">
-<img src="https://raw.githubusercontent.com/IOXNSUN/macros-for-excel/main/screenshots/main.png" width="150px" /><br>macros-for-excel
-</a>
-</td>
-<td align="center">
 <a href="https://github.com/IOXNSUN/ecom_tester">
 <img src="https://raw.githubusercontent.com/IOXNSUN/ecom_tester/main/screenshots/screen1.jpg" width="150px" /><br>ecom_tester
 </a>
