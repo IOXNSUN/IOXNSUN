@@ -1,16 +1,19 @@
 # Привет! 👋 Я [Дмитрий](https://github.com/IOXNSUN)
 
-Я инженер сопровождения / интегратор с опытом **банковских платежей, e-commerce и автоматизации**.  
-Мои сервисы работают **24/7** и интегрированы с 15+ внешними системами.
+Я инженер сопровождения / 
+Мои сервисы работают **24/7**/
 
 ---
 
 ## 🏆 Ключевые навыки
-- Поддержка и интеграция продакшен-сервисов 24/7  
-- Telegram-боты, Flask-сервисы, Postman API, Excel VBA макросы  
-- CI/CD через GitHub Actions  
-- Raspberry Pi, Nginx, systemd, виртуальные окружения Python  
-- Интеграции с 15+ системами: CloudPayments, RBK Money, PayKeeper, PaySelection, Uniteller, Intellect Money, Qiwi, Moneta, CKassa, P2me, Wildberries, OZON, OTT, Skyeng, S7, Lemona Pro, Prodamus  
+- Поддержка и эксплуатация PROD / TEST сред
+- Обеспечение стабильной работы продакшен-сервисов
+- Поддержка и сопровождение платежных интеграций
+- Диагностика и разбор инцидентов
+- Участие в тестировании изменений перед релизом
+- Telegram-боты, Flask-сервисы, Postman API, Excel VBA
+- CI/CD через GitHub Actions
+- Linux, Raspberry Pi, Nginx, systemd
 
 ---
 
