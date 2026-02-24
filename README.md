@@ -86,5 +86,5 @@
 ---
 
 ## 🔗 Контакты
-- Telegram: [t.me/IOXNSUN](https://t.me/TveritinD)  
+- Telegram: [t.me/TveritinD](https://t.me/TveritinD)  
 - Email: <d.tveritin@yandex.ru>
