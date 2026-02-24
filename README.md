@@ -23,12 +23,12 @@
 <tr>
 <td align="center">
 <a href="https://github.com/IOXNSUN/SSL-BOT-for-telegram">
-<img src="https://raw.githubusercontent.com/IOXNSUN/SSL-BOT-for-telegram/main/screenshots/Снимок экрана 2026-02-21 001602.jpg" width="150px" /><br>SSL-BOT-for-telegram
+<img src="https://raw.githubusercontent.com/IOXNSUN/SSL-BOT-for-telegram/main/screenshots/screen1.jpg" width="150px" /><br>SSL-BOT-for-telegram
 </a>
 </td>
 <td align="center">
 <a href="https://github.com/IOXNSUN/ALERTING">
-<img src="https://raw.githubusercontent.com/IOXNSUN/ALERTING/main/screenshots/Снимок экрана 2026-02-21 023014.jpg" width="150px" /><br>ALERTING
+<img src="https://raw.githubusercontent.com/IOXNSUN/ALERTING/main/screenshots/screen1.jpg" width="150px" /><br>ALERTING
 </a>
 </td>
 <td align="center">
@@ -45,12 +45,12 @@
 </td>
 <td align="center">
 <a href="https://github.com/IOXNSUN/ecom_tester">
-<img src="https://raw.githubusercontent.com/IOXNSUN/ecom_tester/main/screenshots/Снимок экрана 2026-02-21 020314.jpg" width="150px" /><br>ecom_tester
+<img src="https://raw.githubusercontent.com/IOXNSUN/ecom_tester/main/screenshots/screen1.jpg" width="150px" /><br>ecom_tester
 </a>
 </td>
 <td align="center">
 <a href="https://github.com/IOXNSUN/https-tda-photo.ru-">
-<img src="https://raw.githubusercontent.com/IOXNSUN/https-tda-photo.ru-/main/screenshots/Снимок экрана 2026-02-21 015314.jpg" width="150px" /><br>https-tda-photo.ru
+<img src="https://raw.githubusercontent.com/IOXNSUN/https-tda-photo.ru-/main/screenshots/screen1.jpg" width="150px" /><br>https-tda-photo.ru
 </a>
 </td>
 </tr>
@@ -62,7 +62,7 @@
 </td>
 <td align="center">
 <a href="https://github.com/IOXNSUN/BITRIX-FOR-RASPBERY-PI">
-<img src="https://raw.githubusercontent.com/IOXNSUN/BITRIX-FOR-RASPBERY-PI/main/screenshots/Снимок экрана 2026-02-21 011817.jpg" width="150px" /><br>BITRIX-FOR-RASPBERY-PI
+<img src="https://raw.githubusercontent.com/IOXNSUN/BITRIX-FOR-RASPBERY-PI/main/screenshots/screen1.jpg" width="150px" /><br>BITRIX-FOR-RASPBERY-PI
 </a>
 </td>
 <td align="center">
@@ -74,7 +74,7 @@
 <tr>
 <td align="center">
 <a href="https://github.com/IOXNSUN/bin_chek-staus-sign_sbp-Telegam_bot">
-<img src="https://raw.githubusercontent.com/IOXNSUN/bin_chek-staus-sign_sbp-Telegam_bot/main/screenshots/screenshots/Снимок экрана 2026-02-21 004121.jpg" width="150px" /><br>bin_chek-staus-sign_sbp
+<img src="https://raw.githubusercontent.com/IOXNSUN/bin_chek-staus-sign_sbp-Telegam_bot/main/screenshots/screenshots/screen1.jpg" width="150px" /><br>bin_chek-staus-sign_sbp
 </a>
 </td>
 <td></td>
