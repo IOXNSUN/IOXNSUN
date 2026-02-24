@@ -74,7 +74,7 @@
 <tr>
 <td align="center">
 <a href="https://github.com/IOXNSUN/bin_chek-staus-sign_sbp-Telegam_bot">
-<img src="https://raw.githubusercontent.com/IOXNSUN/bin_chek-staus-sign_sbp-Telegam_bot/main/screenshots/screenshots/screen1.jpg" width="150px" /><br>bin_chek-staus-sign_sbp
+<img src="https://raw.githubusercontent.com/IOXNSUN/bin_chek-staus-sign_sbp-Telegam_bot/main/screenshots/screen1.jpg" width="150px" /><br>bin_chek-staus-sign_sbp
 </a>
 </td>
 <td></td>
