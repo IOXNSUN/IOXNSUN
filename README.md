@@ -44,23 +44,6 @@
 </tr>
 <tr>
 <td align="center">
-<a href="https://github.com/IOXNSUN/raspberry-pi-production-server">
-<img src="https://raw.githubusercontent.com/IOXNSUN/raspberry-pi-production-server/main/screenshots/main.png" width="150px" /><br>raspberry-pi-production-server
-</a>
-</td>
-<td align="center">
-<a href="https://github.com/IOXNSUN/BITRIX-FOR-RASPBERY-PI">
-<img src="https://raw.githubusercontent.com/IOXNSUN/BITRIX-FOR-RASPBERY-PI/main/screenshots/screen1.jpg" width="150px" /><br>BITRIX-FOR-RASPBERY-PI
-</a>
-</td>
-<td align="center">
-<a href="https://github.com/IOXNSUN/bot-for-create-collection">
-<img src="https://raw.githubusercontent.com/IOXNSUN/bot-for-create-collection/main/screenshots/main.png" width="150px" /><br>bot-for-create-collection
-</a>
-</td>
-</tr>
-<tr>
-<td align="center">
 <a href="https://github.com/IOXNSUN/bin_chek-staus-sign_sbp-Telegam_bot">
 <img src="https://raw.githubusercontent.com/IOXNSUN/bin_chek-staus-sign_sbp-Telegam_bot/main/screenshots/screen1.jpg" width="150px" /><br>bin_chek-staus-sign_sbp
 </a>
