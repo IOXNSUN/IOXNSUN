@@ -17,7 +17,7 @@
 
 ---
 
-## 📂 Проекты — визуальное портфолио
+## 📂 Проекты — визуальное портфолио (больше проектов в профиле)
 
 <table>
 <tr>
@@ -34,11 +34,6 @@
 <td align="center">
 <a href="https://github.com/IOXNSUN/ecom_tester">
 <img src="https://raw.githubusercontent.com/IOXNSUN/ecom_tester/main/screenshots/screen1.jpg" width="150px" /><br>ecom_tester
-</a>
-</td>
-<td align="center">
-<a href="https://github.com/IOXNSUN/https-tda-photo.ru-">
-<img src="https://raw.githubusercontent.com/IOXNSUN/https-tda-photo.ru-/main/screenshots/screen1.jpg" width="150px" /><br>https-tda-photo.ru
 </a>
 </td>
 </tr>
