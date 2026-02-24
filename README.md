@@ -23,7 +23,7 @@
 <tr>
 <td align="center">
 <a href="https://github.com/IOXNSUN/SSL-BOT-for-telegram">
-<img src="https://raw.githubusercontent.com/IOXNSUN/SSL-BOT-for-telegram/main/screenshots/main.png" width="150px" /><br>SSL-BOT-for-telegram
+<img src="https://raw.githubusercontent.com/IOXNSUN/SSL-BOT-for-telegram/main/screenshots/Снимок экрана 2026-02-21 001602.jpg" width="150px" /><br>SSL-BOT-for-telegram
 </a>
 </td>
 <td align="center">
